@@ -16,3 +16,22 @@ Governance & Risk Management
 Executive Communication
 Roadmap Development
 Organizational Change Management
+
+## Stakeholder Register & RACI Matrix
+
+Developed a stakeholder engagement framework and responsibility matrix supporting governance and accountability across the Enterprise Security Modernization Program. Defined stakeholder influence, communication strategies, ownership structures, and decision-making responsibilities for critical cybersecurity initiatives.
+
+### Key Contributions
+Identified executive and operational stakeholders
+Defined ownership and accountability structures
+Created stakeholder engagement strategies
+Established governance responsibilities
+Improved organizational alignment
+
+### Skills Demonstrated
+Stakeholder Management
+Governance
+Program Leadership
+Organizational Planning
+Executive Communication
+Responsibility Assignment (RACI)
