@@ -35,3 +35,25 @@ Program Leadership
 Organizational Planning
 Executive Communication
 Responsibility Assignment (RACI)
+
+## Cybersecurity Policy & Standards Framework
+
+Developed an enterprise cybersecurity governance framework defining how security policies, standards, procedures, and guidelines are created, approved, maintained, and enforced. The framework establishes policy ownership, governance processes, lifecycle management, compliance activities, and alignment with leading industry frameworks to support a mature cybersecurity program.
+
+### Key Contributions
+Designed a comprehensive security governance framework
+Established a structured policy hierarchy
+Defined a centralized security policy library
+Documented policy lifecycle and review processes
+Assigned governance roles and responsibilities
+Integrated compliance monitoring and continuous improvement practices
+
+### Skills Demonstrated
+Cybersecurity Governance
+Policy Development
+Governance Framework Design
+Compliance Management
+Program Management
+Risk Management
+Executive Communication
+Security Standards
